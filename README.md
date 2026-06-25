@@ -1,2 +1,2 @@
 # HPANet
-Config files for my GitHub profile.
+Our code will be released soon.
